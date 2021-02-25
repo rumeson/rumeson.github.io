@@ -1,0 +1,2572 @@
+/**
+ * VictorThemes Styling
+*/
+@media screen and (max-width:1599px) {
+  .elementor .crmny-animate-image img {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width:1499px) {
+  /* Crmny Normal CSS */
+  .crmny-music-link {
+    bottom: 60px;
+    right: 10px;
+  }
+  /* Crmny Home V1 Page CSS */
+  .clients-style-four .owl-carousel .owl-nav button.owl-prev,
+  .clients-style-four .owl-carousel .owl-nav button.owl-next {
+    left: -60px;
+  }
+  .clients-style-four .owl-carousel .owl-nav button.owl-next {
+    left: auto;
+    right: -60px;
+  }
+}
+@media screen and (max-width:1350px) {
+  .crmny-navigation .has-dropdown.sub .dropdown-nav {
+    top: 0;
+    right: calc(100% + 25px);
+    left: auto;
+  }
+  .crmny-navigation .has-dropdown.sub .dropdown-nav:before {
+    left: auto;
+    right: -25px;
+  }
+}
+
+@media screen and (max-width:1320px) {
+  .owl-carousel .owl-nav button.owl-prev {
+    left: -25px;
+  }
+  .owl-carousel .owl-nav button.owl-next {
+    right: -25px;
+  }
+}
+
+@media screen and (max-width:1299px) {
+  /* Crmny Normal CSS */
+  .swiper-button-prev, .swiper-button-next {
+    left: 20px;
+  }
+  .swiper-button-next {
+    left: auto;
+    right: 20px;
+  }
+  /* Crmny Home V1 Page CSS */
+  .clients-style-four .owl-carousel .owl-nav button.owl-prev,
+  .clients-style-four .owl-carousel .owl-nav button.owl-next {
+    display: none;
+  }
+}
+
+@media screen and (min-width:1270px) {
+  /* Crmny Normal CSS */
+  .container {
+    padding: 0;
+  }
+}
+@media screen and (max-width:1269px) {
+  .crmny-testimonials.testimonials-style-two.crmny-testimElementor > .container {
+    padding: 0;
+  }
+}
+@media screen and (min-width:1200px) {
+  /* Crmny Normal CSS */
+  .container {
+    max-width: 1170px;
+  }
+}
+
+@media screen and (max-width:1199px) {
+  /* dynamic style CSS - CeremonyWP */
+  .crmny-navigation {
+    display: none !important;
+  }
+  .crmny-header-right {
+    display: none;
+  }
+  .crmny-center-header .crmny-header .textright {
+    display: none;
+  }
+  .crmny-center-header .header-center-wrap {
+    display: none;
+  }
+  .mean-menu-parent .navigation-wrap .close-btn {
+    display: none;
+  }
+  /* Crmny Normal CSS */
+  .crmny-header {
+    position: relative;
+  }
+  .crmny-header-right {
+    position: static;
+  }
+  .crmny-feature .container {
+    padding: 0;
+  }
+  .header-links-wrap,
+  .crmny-dark-transparent-header .header-links-wrap {
+    padding: 0;
+  }
+  .crmny-header .row {
+    position: relative;
+  }
+  .crmny-header [class*="col-"] {
+    position: static;
+  }
+  .crmny-header-right .crmny-navigation {
+    display: none;
+  }
+  .section-title-wrap,
+  .crmny-friends .section-title-wrap {
+    padding-bottom: 40px;
+  }
+  .footer-wrap {
+    padding-bottom: 25px;
+  }
+  .owl-carousel .owl-nav button.owl-prev,
+  .owl-carousel .owl-nav button.owl-next {
+    display: none;
+  }
+  .crmny-page-title {
+    padding: 150px 0;
+  }
+  .page-title-wrap h1,
+  .page-title-wrap h2 {
+    font-size: 42px;
+  }
+  .gallery-wrap {
+    padding: 0 30px;
+  }
+  .crmny-elementorGallery .gallery-wrap {
+    padding: 0;
+  }
+  /* Crmny Home V3 Page CSS */
+  .feature-info {
+    padding: 10px;
+  }
+  /* Crmny Home V4 Page CSS */
+  .crmny-photoshoot .owl-carousel .owl-nav button.owl-prev,
+  .crmny-photoshoot .owl-carousel .owl-nav button.owl-next {
+    display: block;
+  }
+  /* Crmny Home V5 Page CSS */
+  .center-header-style-two .search-box {
+    top: 65px;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 90px;
+    line-height: 105px;
+  }
+  /* Crmny Home V6 Page CSS */
+  .contact-item br {
+    display: none;
+  }
+  /* Crmny Gallery Details 02 Page CSS */
+  .gallery-slider .owl-carousel .owl-nav button.owl-prev,
+  .gallery-slider .owl-carousel .owl-nav button.owl-next {
+    display: block;
+  }
+  /* Crmny Blog Detail Pages CSS */
+  .primary-spacer-one {
+    padding-right: 15px;
+  }
+  .left-sidebar .primary-spacer-one.order-md-2 {
+    padding-left: 15px;
+  }
+  .blog-item .owl-carousel .owl-nav button.owl-prev,
+  .blog-item .owl-carousel .owl-nav button.owl-next {
+    display: block;
+  }
+  .crmny-widget {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .post-info {
+    padding-left: 0;
+    float: left;
+    width: 100%;
+  }
+  .post-title {
+    padding-bottom: 2px;
+  }
+  .crmny-widget.woocommerce ul.cart_list li a img,
+  .crmny-widget.woocommerce ul.product_list_widget li a img {
+    float: none;
+    margin-bottom: 5px;
+    width: 100px;
+  }
+  .crmny-widget.woocommerce ul.cart_list li a .product-title,
+  .crmny-widget.woocommerce ul.product_list_widget li a .product-title {
+    display: inline-block;
+    width: 100%;
+  }
+  .crmny-widget.woocommerce ul.cart_list .woocommerce-Price-amount,
+  .crmny-widget.woocommerce ul.product_list_widget .woocommerce-Price-amount {
+    padding-top: 0;
+  }
+  .crmny-widget.widget_calendar table#wp-calendar td,
+  .crmny-widget.widget_calendar table#wp-calendar th {
+    padding: 4px;
+  }
+  /* Crmny Shop Page CSS */
+  .amount-label {
+    width: 100%;
+    padding: 10px 0 0;
+  }
+  .amount-label input[type="text"] {
+    width: 100px;
+  }
+  .woocommerce ul.cart_list li a img,
+  .woocommerce ul.product_list_widget li a img {
+    margin-right: 16px;
+  }
+  .woocommerce ul.cart_list li a .product-title,
+  .woocommerce ul.product_list_widget li a .product-title {
+    padding-top: 0;
+  }
+  /* Crmny Shopping Cart Page CSS */
+  .custom-width-1, .custom-width-2 {
+    float: none;
+    width: 100%;
+  }
+  .woocommerce .actions .coupon .input-text {
+    width: 83.2%;
+  }
+  .cart-total {
+    margin-top: 50px;
+  }
+  .cart-total .checkbox {
+    display: block;
+  }
+  /* Crmny Checkout Page CSS */
+  .woocommerce form.checkout_coupon input.input-text {
+    width: 80%;
+  }
+  .woocommerce-checkout-review-order {
+    padding: 25px 25px 30px;
+  }
+  .crmny-event-menu {
+    text-align: center;
+  }
+  .event-menu-info-wrap {
+    padding-left: 0;
+  }
+  .order-md-1 .event-menu-info-wrap {
+    padding: 0;
+  }
+  .event-menu-info {
+    max-width: 585px;
+    margin: 0 auto;
+  }
+  .event-author .event-author-item {
+    display: inline-block;
+    width: 100%;
+    max-width: 100%;
+    float: none;
+  }
+  .event-author .crmny-image {
+    width: auto;
+  }
+  .woocommerce-account .col2-set .woocommerce-Address {
+    max-width: 100%;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+}
+
+@media screen and (max-width:991px) {
+  /* Crmny Normal CSS */
+  .crmny-topbar ul li, .crmny-topbar span.top-link {
+    padding-left: 0;
+  }
+  .swiper-container {
+    height: 600px;
+    min-height: 600px;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 70px;
+    line-height: 80px;
+  }
+  .caption-wrap-inner:before,
+  .caption-wrap-inner:after {
+    display: none;
+  }
+  .section-title-wrap h2 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+  .couple-image {
+    display: inline-block;
+    padding: 40px 0;
+  }
+  .story-item {
+    text-align: center;
+  }
+  .countdown-value,
+  .countdown_amount {
+    font-size: 40px;
+    line-height: 46px;
+  }
+  .masonry-item,
+  .crmny-masonry[data-items="4"] .masonry-item,
+  .crmny-masonry .masonry-item[class*="item-width-"] {
+    width: 50%;
+  }
+  .nav {
+    padding-bottom: 34px;
+  }
+  .rsvp-wrap {
+    max-width: none;
+  }
+  .crmny-quotes h2 {
+    font-size: 45px;
+    line-height: 48px;
+  }
+  .blog-item {
+    margin-bottom: 40px;
+  }
+  .crmny-btn-wrap {
+    padding-top: 15px;
+  }
+  .crmny-sticky-footer .main-wrap-inner {
+    margin-bottom: 0 !important;
+  }
+  .crmny-sticky-footer .crmny-footer {
+    position: static;
+  }
+  .crmny-copyright {
+    padding-bottom: 20px;
+    text-align: center;
+  }
+  .crmny-copyright .col-lg-7.pull-right {
+    text-align: center;
+  }
+  .crmny-copyright .textright {
+    padding-top: 15px;
+    text-align: center;
+  }
+  .widget-menu ul li {
+    padding: 0 10px 8px;
+  }
+  .crmny-primary {
+    float: none;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+  }
+  .crmny-secondary {
+    padding-top: 80px;
+    float: none;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+  }
+  .crmny-iframe iframe {
+    height: 400px;
+  }
+  /* Sidebar Widget */
+  .post-info {
+    padding-left: 25px;
+    float: left;
+    width: auto;
+  }
+  .post-title {
+    padding-bottom: 2px;
+  }
+  .crmny-widget.woocommerce ul.cart_list li a img,
+  .crmny-widget.woocommerce ul.product_list_widget li a img {
+    float: left;
+    margin-bottom: 0;
+    width: 70px;
+  }
+  .crmny-widget.woocommerce ul.cart_list li a .product-title,
+  .crmny-widget.woocommerce ul.product_list_widget li a .product-title {
+    display: inline-block;
+    width: auto;
+  }
+  .crmny-widget.woocommerce ul.cart_list .woocommerce-Price-amount,
+  .crmny-widget.woocommerce ul.product_list_widget .woocommerce-Price-amount {
+    padding-top: 4px;
+  }
+  .crmny-widget.widget_calendar table#wp-calendar td,
+  .crmny-widget.widget_calendar table#wp-calendar th {
+    padding: 8px;
+  }
+  /* Crmny Home V2 Page CSS */
+  .crmny-banner,
+  .crmny-banner.banner-style-two {
+    height: 600px;
+    min-height: 600px;
+  }
+  .photoshoot-item .crmny-image {
+    display: inline-block;
+  }
+  /* Crmny Home V3 Page CSS */
+  .banner-caption h1 {
+    font-size: 80px;
+    line-height: 90px;
+  }
+  .crmny-history .textright {
+    text-align: center;
+  }
+  .history-item .crmny-image {
+    margin: 35px 0;
+    display: inline-block;
+  }
+  .history-item {
+    text-align: center;
+  }
+  /* Crmny Home V4 Page CSS */
+  .crmny-about .crmny-image {
+    display: inline-block;
+  }
+  .about-info {
+    padding: 20px 0 0;
+  }
+  .about-title br {
+    display: none;
+  }
+  /* Crmny Home V5 Page CSS */
+  .center-header-style-two .search-box {
+    top: 58px;
+  }
+  .center-header-style-two .brand-center-wrap {
+    padding: 25px 0;
+  }
+  .center-header-style-two .brand-center-wrap .crmny-social {
+    display: none;
+  }
+  .center-header-style-two .brand-center-wrap .crmny-brand {
+    text-align: left;
+  }
+  .swiper-style-two .caption-wrap-inner h1 {
+    line-height: 80px;
+  }
+  .swiper-style-two .swiper-button-prev {
+    left: 20px;
+  }
+  .swiper-style-two .swiper-button-next {
+    right: 20px;
+  }
+  .woocommerce.woocommerce-style-two ul.products li.product,
+  .woocommerce-page.woocommerce-style-two ul.products li.product {
+    width: 33.33333333%;
+  }
+  /* Crmny Home V6 Page CSS */
+  .swiper-style-three .caption-wrap-inner h1 {
+    font-size: 70px;
+    line-height: 80px;
+  }
+  .crmny-event-menu {
+    text-align: center;
+  }
+  .event-menu-info-wrap {
+    padding-left: 0;
+  }
+  .order-md-1 .event-menu-info-wrap {
+    padding: 0;
+  }
+  .event-menu-info {
+    max-width: 585px;
+    margin: 0 auto;
+  }
+  .contact-us-wrap {
+    margin: 0;
+  }
+  /* Crmny Our Story Page CSS */
+  .proposal-story-item .crmny-icon {
+    width: 90px;
+    height: 90px;
+  }
+  .proposal-story-item .crmny-icon img {
+    width: 50px;
+  }
+  .blog-style-one.default .blog-info {
+    padding: 30px;
+  }
+  /* Crmny Events Details Page CSS */
+  .event-info-wrap {
+    margin-top: 50px;
+  }
+  /* Crmny 404 Page CSS */
+  .crmny-error h1 {
+    font-size: 180px;
+    line-height: 190px;
+  }
+  .error-icon {
+    margin: 0 0 -40px 0;
+    background-size: 110px;
+  }
+  /* Crmny Gallery Details 01 Page CSS */
+  .gallery-details-wrap {
+    padding: 20px 0 0;
+  }
+  /* Crmny Gallery Details 02 Page CSS */
+  .gallery-details-wrap ul {
+    padding-top: 30px;
+  }
+  /* Crmny Blog Detail Pages CSS */
+  .mid-spacer-two {
+    padding-bottom: 100px;
+  }
+  /* Crmny Shop Detail Page CSS */
+  .gallerythumbs {
+    width: 20%;
+  }
+  .single-product.woocommerce-page div.product div.images {
+    width: 90%;
+  }
+  .woocommerce div.product div.images .flex-control-thumbs li {
+    padding: 0 10px 10px 0;
+    width: 100%;
+  }
+  .galleryslides {
+    width: 80%;
+  }
+  .woocommerce #content div.product div.summary,
+  .woocommerce div.product div.summary,
+  .woocommerce-page #content div.product div.summary,
+  .woocommerce-page div.product div.summary {
+    padding: 30px 0 0;
+    width: 100%;
+  }
+  .woocommerce div.product .woocommerce-tabs > #tab-description {
+    padding: 30px 0;
+  }
+  /* Crmny Shopping Cart Page CSS */
+  .woocommerce .actions .coupon .input-text {
+    width: 77%;
+  }
+  .woocommerce #content table.cart td.actions .coupon,
+  .woocommerce table.cart td.actions .coupon,
+  .woocommerce-page #content table.cart td.actions .coupon,
+  .woocommerce-page table.cart td.actions .coupon {
+    width: 60%;
+  }
+  /* Crmny Checkout Page CSS */
+  .woocommerce form.login,
+  .woocommerce form.register,
+  .woocommerce form.checkout_coupon {
+    padding: 0;
+  }
+  .woocommerce form.checkout_coupon input.input-text {
+    width: 74.4%;
+  }
+  .woocommerce .col2-set .col-1,
+  .woocommerce-page .col2-set .col-1,
+  .woocommerce .col2-set .col-2,
+  .woocommerce-page .col2-set .col-2 {
+    padding: 0;
+    max-width: 100%;
+  }
+  .woocommerce-account .col2-set .woocommerce-Address {
+    padding: 15px;
+  }
+  .woocommerce .woocommerce-column.woocommerce-column--2.woocommerce-column--shipping-address.col-2 {
+    margin-top: 20px;
+  }
+  .woocommerce-checkout-review-order {
+    margin-top: 50px;
+  }
+  .woocommerce form.checkout_coupon input.input-text {
+    width: 100%;
+  }
+  .woocommerce form.checkout_coupon p.form-row.form-row-first {
+    width: 100%;
+  }
+  .woocommerce form.checkout_coupon p.form-row.form-row-last {
+    width: 40%;
+    float: left;
+    margin-top: 15px;
+  }
+  /* My Account Page */
+  .woocommerce-account .woocommerce-MyAccount-content, .woocommerce-account .woocommerce-MyAccount-navigation {
+    float: none;
+    width: 100%;
+  }
+  .woocommerce-account .woocommerce-MyAccount-content {
+    padding-top: 30px;
+  }
+  /* Crmny Contact Us Page CSS */
+  .contact-form {
+    padding: 25px 0 0;
+  }
+  /* Events Page */
+  #tribe-bar-form.tribe-bar-collapse .tribe-bar-filters-inner .tribe-bar-submit {
+    margin: 0;
+  }
+  #tribe-bar-form .tribe-bar-submit input[type=submit] {
+    width: auto;
+  }
+  h3.tribe-events-list-event-title.summary,
+  .tribe-events-loop .tribe-events-event-meta,
+  .tribe-events-list-event-description.tribe-events-content.description.entry-summary,
+  .tribe-events-list .tribe-events-loop .tribe-events-content {
+    width: 100%;
+    float: left;
+  }
+  .tribe-events-list .tribe-events-event-image img {
+    width: auto;
+    padding-bottom: 12px;
+  }
+  .list-featured-image {
+    width: 100%;
+  }
+  .tribe-events-list .tribe-events-event-cost {
+    display: inline-block;
+    float: none;
+    width: 100%;
+  }
+  .tribe-events-list .tribe-events-loop .list-featured-image .tribe-events-event-image {
+    text-align: center;
+  }
+  .tribe-events-list .type-tribe_events:first-of-type, .tribe-events-list .type-tribe_events {
+    text-align: center;
+  }
+  .details-wrap-style-two .gallery-meta {
+    border-bottom: none;
+  }
+}
+@media screen and (max-width:782px) {
+  .admin-bar .is-sticky .crmny-header {
+    top: 46px !important;
+  }
+}
+@media screen and (min-width:768px) {
+  .tribe-events-tickets input[type=date],
+  .tribe-events-tickets input[type=datetime-local],
+  .tribe-events-tickets input[type=email],
+  .tribe-events-tickets input[type=month],
+  .tribe-events-tickets input[type=number],
+  .tribe-events-tickets input[type=password],
+  .tribe-events-tickets input[type=search],
+  .tribe-events-tickets input[type=tel],
+  .tribe-events-tickets input[type=text],
+  .tribe-events-tickets input[type=time],
+  .tribe-events-tickets input[type=url],
+  .tribe-events-tickets input[type=week],
+  .tribe-events-tickets select,
+  .tribe-events-tickets textarea {
+    width: 100%;
+  }
+}
+@media screen and (max-width:768px) {
+  .woocommerce ul.products[class*=columns-] li.product:nth-child(2n),
+  .woocommerce-page ul.products[class*=columns-] li.product:nth-child(2n) {
+    float: none;
+  }
+  #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-next,
+  #tribe-events-footer .tribe-events-sub-nav .tribe-events-nav-previous,
+  #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-next,
+  #tribe-events-header .tribe-events-sub-nav .tribe-events-nav-previous {
+    box-sizing: border-box;
+    display: block;
+    margin: 5px 0;
+    width: 100%;
+    text-align: center;
+  }
+  #tribe-events-footer~a.tribe-events-ical.tribe-events-button {
+    height: 45px;
+    line-height: 41px;
+    display: inline-block;
+    width: 100%;
+    margin: 5px 0;
+  }
+  .tribe-events-calendar td.tribe-events-present,
+  .tribe-events-calendar td.tribe-events-present.mobile-active,
+  .tribe-events-calendar td.tribe-events-present.mobile-active div[id*=tribe-events-daynum-],
+  #tribe-events-content .tribe-events-calendar td.tribe-events-present.mobile-active:hover,
+  .tribe-events-calendar td.tribe-events-present.mobile-active,
+  .tribe-events-calendar td.mobile-active {
+    background-color: #b4d2c8;
+  }
+  #tribe-events-content .tribe-events-calendar td.tribe-events-present:hover,
+  .tribe-events-calendar td.tribe-events-present,
+  .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-],
+  .tribe-events-calendar td.tribe-events-present div[id*=tribe-events-daynum-]>a {
+    background-color: #b4d2c8;
+  }
+  #tribe-events-content .tribe-events-calendar .mobile-active:hover,
+  #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth.mobile-active,
+  #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth.mobile-active div[id*=tribe-events-daynum-],
+  #tribe-events-content .tribe-events-calendar td.tribe-events-othermonth.mobile-active div[id*=tribe-events-daynum-] a,
+  .tribe-events-calendar .mobile-active div[id*=tribe-events-daynum-],
+  .tribe-events-calendar .mobile-active div[id*=tribe-events-daynum-] a,
+  .tribe-events-calendar td.mobile-active {
+    background-color: #b4d2c8;
+  }
+  #tribe-mobile-container .type-tribe_events .tribe-event-description {
+    display: inline-block;
+    width: auto;
+  }
+  #tribe-mobile-container .type-tribe_events .tribe-events-event-image {
+    width: 100%;
+    margin: 10px 15px 10px 0;
+  }
+  #tribe-events-bar {
+    margin-bottom: 0;
+  }
+  .tribe-events-day .tribe-events-day-time-slot .tribe-events-day-time-slot-heading {
+    margin-top: 10px;
+  }
+  /* Event Single */
+  #tribe-events div.tribe-events-single-event-description {
+    padding: 25px 25px 0;
+    margin-bottom: 0;
+  }
+  .single-tribe_events form#rsvp-now,
+  .single-tribe_events .tribe-events-cal-links,
+  .single-tribe_events .tribe-events-meta-group.tribe-events-meta-group-venue,
+  .event-author,
+  .single-tribe_events .tribe-events-single-section.tribe-events-event-meta.primary {
+    padding: 25px 25px 0;
+  }
+  .single-tribe_events .tribe-events-meta-group.tribe-events-meta-group-venue {
+    padding-bottom: 25px;
+  }
+  .single-tribe_events .tribe-events-event-meta {
+    padding: 0;
+  }
+  .single-tribe_events .secondary .tribe-events-venue-map {
+    margin: 25px 0;
+  }
+  .event-author .event-author-item {
+    padding: 5px 0;
+  }
+  .single-tribe_events .tribe-events-single-section.tribe-events-event-meta.primary,
+  .single-tribe_events .tribe-events-meta-group.tribe-events-meta-group-venue {
+    padding-top: 10px;
+  }
+  .tribe-events-event-meta .tribe-events-meta-group {
+    margin-bottom: 25px;
+  }
+  .tribe-events-meta-group .tribe-events-single-section-title,
+  .tribe-events-style-full.tribe-events-style-theme .tribe-tickets-rsvp h2.tribe-events-tickets-title {
+    font-size: 20px;
+  }
+  .single-tribe_events form#rsvp-now {
+    padding-bottom: 25px;
+  }
+  .woocommerce #content table.cart td.actions .coupon,
+  .woocommerce table.cart td.actions .coupon,
+  .woocommerce-page #content table.cart td.actions .coupon,
+  .woocommerce-page table.cart td.actions .coupon {
+    width: 100%;
+  }
+  .woocommerce table.shop_table_responsive tr td,
+  .woocommerce-page table.shop_table_responsive tr td {
+    padding: 15px 20px;
+  }
+  .woocommerce .cart_totals table.shop_table tr.shipping td {
+    background: transparent;
+  }
+  .woocommerce .shipping-calculator-form .select2-container--default .select2-selection--single {
+    text-align: left;
+  }
+  .woocommerce-page table.cart td.actions .coupon .input-text+.button {
+    margin: 0;
+  }
+}
+@media screen and (max-width:767px) {
+  /* Crmny Normal CSS */
+  p {
+    padding-bottom: 10px;
+    font-size: 14px;
+  }
+  blockquote {
+    margin: 15px 0 5px;
+  }
+  blockquote p {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  textarea,
+  textarea.form-control,
+  .woocommerce #reviews #comment,
+  .woocommerce form .form-row textarea,
+  .crmny-comment-form textarea {
+    height: 120px;
+  }
+  form label {
+    padding-bottom: 8px;
+  }
+  form input[type="submit"] {
+    margin: 0;
+  }
+  .contact-form input[type=number] {
+    margin-bottom: 25px;
+  }
+  .search-box {
+    width: 100%;
+    padding: 15px;
+  }
+  .crmny-music-link {
+    right: 15px;
+    width: 40px;
+    height: 40px;
+  }
+  .mfp-container .mfp-arrow {
+    display: none;
+  }
+  .container {
+    padding: 0 25px;
+  }
+  .container.mean-container {
+    padding: 0 25px;
+  }
+  .mean-container a.meanmenu-reveal {
+    margin-right: 13px;
+  }
+  .crmny-topbar {
+    padding: 25px 0 30px;
+    text-align: center;
+  }
+  .crmny-topbar.hide-topbar-responsive {
+    display: none;
+  }
+  .crmny-topbar .textright {
+    text-align: center;
+  }
+  .crmny-topbar .crmny-social {
+    padding-bottom: 5px;
+  }
+  .crmny-topbar .crmny-social a {
+    margin: 0 8px 10px;
+  }
+  .crmny-brand,
+  .crmny-dark-transparent-header .crmny-brand,
+  .crmny-full-width-header .crmny-brand,
+  .crmny-dark-header .crmny-brand {
+    padding: 25px 0;
+  }
+  .crmny-fullscreen-navigation .crmny-navigation {
+    padding: 50px 0;
+  }
+  .crmny-main-wrap .crmny-fullscreen-navigation .crmny-navigation > ul > li {
+    margin: 10px 0;
+  }
+  .crmny-main-wrap .crmny-fullscreen-navigation .crmny-navigation > ul > li > a {
+    font-size: 30px;
+  }
+  .search-link {
+    padding-left: 18px;
+  }
+  .crmny-toggle {
+    padding-left: 13px;
+  }
+  .close-btn {
+    top: 20px;
+    right: 20px;
+  }
+  .swiper-container {
+    height: 400px;
+    min-height: 400px;
+  }
+  .caption-wrap-inner h4 {
+    font-size: 16px;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 48px;
+    line-height: 52px;
+  }
+  .caption-subtitle {
+    padding-bottom: 10px;
+  }
+  .caption-title span {
+    padding: 0;
+  }
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+  }
+  .crmny-rsvp.rsvp-style-two,
+  .crmny-blog,
+  .crmny-offer,
+  .crmny-mid-wrap {
+    padding: 50px 0;
+  }
+  .crmny-guest-form {
+    padding: 15px 0;
+  }
+  .crmny-stats,
+  .crmny-related-products,
+  .crmny-about-venue {
+    padding: 50px 0 35px;
+  }
+  .friends-global-page, .crmny-contact-us {
+    padding: 50px 0 25px;
+  }
+  .section-title-wrap,
+  .crmny-big-day .section-title-wrap,
+  .crmny-friends .section-title-wrap,
+  .crmny-rsvp.rsvp-style-two .section-title-wrap,
+  .crmny-registered .section-title-wrap,
+  .crmny-testimonials .section-title-wrap,
+  .clients-style-two .section-title-wrap,
+  .crmny-contact-us .section-title-wrap,
+  .crmny-proposal-story .section-title-wrap,
+  .crmny-guest-form .section-title-wrap,
+  .crmny-rsvp .section-title-wrap,
+  .contact-wrap .section-title-wrap {
+    max-width: none;
+    padding-bottom: 20px;
+  }
+  .section-title-wrap h2,
+  .woocommerce .section-title-wrap h2 {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .section-title,
+  .woocommerce .section-title,
+  .contact-wrap .section-title {
+    padding-bottom: 18px;
+    margin-bottom: 13px;
+  }
+  .person-birth-date {
+    padding-bottom: 10px;
+  }
+  .story-item h3 {
+    font-size: 20px;
+  }
+  .couple-image .crmny-image {
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+  .couple-image {
+    padding: 25px 0;
+  }
+  .couple-image div:last-child > .crmny-image {
+    margin-bottom: 0;
+  }
+  .story-place {
+    max-width: none;
+    padding-top: 25px;
+  }
+  .story-place h2 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  .story-place .crmny-btn-wrap {
+    padding-top: 5px;
+  }
+  .countdown-wrap {
+    max-width: 400px;
+  }
+  .countdown-item,
+  .countdown_section {
+    min-width: 80px;
+    margin-right: 25px;
+  }
+  .countdown-item:after,
+  .countdown_section:after {
+    right: -15px;
+  }
+  .countdown-value,
+  .countdown_amount {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .missing-days {
+    max-width: none;
+    padding-top: 25px;
+  }
+  .marriage-day {
+    max-width: none;
+  }
+  .marriage-day:before {
+    display: none;
+  }
+  .marriage-day-title {
+    max-width: none;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .marriage-day-title:before {
+    display: none;
+  }
+  .marriage-day-title .textright {
+    text-align: center;
+  }
+  .day-title {
+    padding: 0;
+  }
+  .textright .day-title {
+    padding: 0;
+  }
+  .day-item {
+    padding-bottom: 20px;
+  }
+  .day-item .textright {
+    text-align: center;
+  }
+  .day-function {
+    padding: 0 0 15px;
+  }
+  .day-function:before,
+  .day-function:after {
+    display: none;
+  }
+  .day-info {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  .day-item [class*="order-md-"] .day-function {
+    padding: 0 0 15px;
+    text-align: center;
+  }
+  .day-item [class*="order-md-"] .day-info {
+    padding: 0;
+  }
+  .day-info .crmny-icon {
+    padding-bottom: 10px;
+  }
+  .crmny-masonry {
+    text-align: center;
+    margin: 0;
+  }
+  .masonry-item,
+  .crmny-masonry .masonry-item[class*="item-width-"],
+  .crmny-masonry .masonry-item.one-half {
+    width: 100%;
+    padding: 0 0 25px;
+  }
+  .crmny-masonry[data-space="15"] .masonry-item {
+    padding: 0 0 25px;
+  }
+  .gallery-item {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .crmny-photography .crmny-btn-wrap {
+    padding-top: 0;
+  }
+  .crmny-friends {
+    text-align: center;
+  }
+  .nav-tabs .nav-link {
+    margin: 5px 10px;
+  }
+  .friend-item {
+    margin-bottom: 20px;
+  }
+  .nav {
+    padding-bottom: 20px;
+  }
+  .blog-info h4 {
+    font-size: 16px;
+  }
+  .crmny-secondary {
+    padding-top: 50px;
+  }
+  /* Crmny Home V1 Page CSS */
+  .crmny-quotes h2 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+  .quote-title {
+    padding-bottom: 10px;
+  }
+  .owl-carousel .owl-dots {
+    padding-top: 5px;
+  }
+  .rsvp-wrap {
+    padding: 25px;
+    margin: 0;
+  }
+  .crmny-rsvp.rsvp-style-two .section-title-wrap h2 {
+    font-size: 24px;
+  }
+  .checkbox-wrap,
+  .rsvp-wrap .checkbox-wrap {
+    clear: both;
+    padding: 20px 0 0;
+  }
+  .rsvp-wrap .wpcf7-list-item-label {
+    padding-right: 0;
+  }
+  .blog-item {
+    max-width: 370px;
+    margin: 0 auto 35px;
+  }
+  .blog-info {
+    padding-top: 15px;
+  }
+  .blog-title {
+    padding-bottom: 5px;
+  }
+  .marriage-day-title h4 {
+    font-size: 18px;
+  }
+  .day-item h4 {
+    font-size: 16px;
+  }
+  .footer-widget h4 {
+    font-size: 16px;
+  }
+  .footer-widget .widget-title {
+    padding-bottom: 10px;
+  }
+  .tweet-item {
+    padding-bottom: 0;
+  }
+  .tweet-item:last-child p {
+    padding-bottom: 0;
+  }
+  .footer-wrap {
+    padding: 50px 0 10px;
+  }
+  .footer-widget p br {
+    display: none;
+  }
+  .blog-single-item.blog-style-grid {
+    width: 370px;
+    margin: 0 auto 15px;
+  }
+  /* Crmny Home V2 Page CSS */
+  .crmny-banner,
+  .crmny-banner.banner-style-two {
+    height: 400px;
+    min-height: 400px;
+  }
+  .invitation-wrap {
+    max-width: none;
+    padding: 25px 25px 15px;
+    margin-top: -50px;
+  }
+  .invitation-wrap br {
+    display: none;
+  }
+  .invitation-wrap:before,
+  .invitation-wrap:after {
+    display: none;
+  }
+  .invitation-wrap h1 {
+    font-size: 50px;
+    line-height: 58px;
+  }
+  .invitation-wrap h2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .invitation-wrap h4 {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .invitation-subtitle,
+  .couple-name {
+    padding-bottom: 10px;
+  }
+  .crmny-invitation .crmny-btn-wrap {
+    padding-top: 25px;
+  }
+  /* Crmny Home V3 Page CSS */
+  .topbar-style-two .crmny-topbar {
+    padding: 25px 0 20px;
+  }
+  .crmny-topbar ul li {
+    padding: 0 10px 10px;
+  }
+  .crmny-topbar ul li, .crmny-topbar span.top-link {
+    padding: 0 10px 10px;
+  }
+  .brand-center-wrap {
+    padding: 20px 0;
+  }
+  .brand-center-wrap .crmny-brand {
+    text-align: left;
+  }
+  .brand-center-wrap .crmny-social,
+  .brand-center-wrap .crmny-btn, .header-center-wrap {
+    display: none;
+  }
+  .brand-center-wrap .header-links-wrap {
+    display: block;
+  }
+  .banner-caption h1 {
+    font-size: 46px;
+    line-height: 50px;
+  }
+  .crmny-video-link {
+    padding: 5px 0 15px;
+  }
+  .crmny-video-btn {
+    width: 60px;
+    height: 60px;
+  }
+  .crmny-video-btn i {
+    margin: 4px 0 0 3px;
+  }
+  .banner-caption .crmny-social a {
+    margin: 0 8px 8px;
+  }
+  .history-item h4 {
+    font-size: 18px;
+  }
+  .history-title {
+    padding-bottom: 8px;
+  }
+  .history-item .crmny-btn-wrap {
+    padding-top: 10px;
+  }
+  .crmny-feature {
+    text-align: center;
+  }
+  .feature-item {
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 35px;
+  }
+  .feature-title,
+  .feature-info .crmny-icon {
+    padding-bottom: 10px;
+  }
+  .feature-item.crmny-hover .feature-title {
+    padding-bottom: 0;
+  }
+  .testimonial-item p {
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .testimonial-item .crmny-icon {
+    padding-bottom: 15px;
+  }
+  .testimonial-item .crmny-image {
+    padding: 5px 0 13px;
+  }
+  .feature-info h4 {
+    font-size: 16px;
+  }
+  .crmny-masonry[data-space="20"] {
+    margin: 0;
+  }
+  .crmny-masonry[data-items="4"] .masonry-item {
+    width: 100%;
+    padding: 0 0 25px;
+  }
+  .crmny-masonry[data-items="2"] .masonry-item {
+    width: 100%;
+  }
+  .gallery-info .crmny-icon {
+    padding-bottom: 10px;
+  }
+  .gallery-info h4 {
+    font-size: 16px;
+  }
+  .gallery-title {
+    padding-bottom: 5px;
+  }
+  .proposal-item {
+    padding: 30px;
+  }
+  .proposal-item .crmny-icon {
+    margin: 10px 0 15px;
+  }
+  .proposal-item h2 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .stats-item {
+    width: 100%;
+    padding: 0 0 20px;
+  }
+  .stats-item h2 {
+    font-size: 30px;
+    line-height: 38px;
+  }
+  .stats-item .crmny-icon {
+    padding-bottom: 8px;
+  }
+  /* Crmny Home V4 Page CSS */
+  .crmny-full-width-header .crmny-header {
+    padding: 0 25px;
+  }
+  .crmny-full-width-header .header-links-wrap {
+    padding: 0;
+  }
+  .crmny-full-width-header .crmny-toggle {
+    padding-left: 5px;
+  }
+  .about-info h2 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .about-title {
+    padding-bottom: 5px;
+  }
+  .about-info p {
+    padding-bottom: 10px;
+  }
+  .about-info .crmny-social {
+    padding-top: 5px;
+  }
+  .about-info .crmny-icon {
+    padding-top: 20px;
+  }
+  .crmny-gallery.gallery-style-two {
+    padding-bottom: 10px;
+  }
+  .photoshoot-info {
+    min-height: 10px;
+  }
+  .photoshoot-info h4 {
+    font-size: 16px;
+  }
+  /* Crmny Home V5 Page CSS */
+  .center-header-style-two .search-box {
+    top: 53px;
+  }
+  .center-header-style-two .brand-center-wrap {
+    padding: 20px 0;
+  }
+  .swiper-style-two .caption-wrap-inner h1 {
+    line-height: 52px;
+  }
+  .swiper-style-two .caption-wrap-inner .crmny-btn-wrap {
+    padding-top: 10px;
+  }
+  .crmny-suits {
+    text-align: center;
+  }
+  .crmny-collections {
+    padding-bottom: 50px;
+  }
+  .woocommerce ul.products li.product,
+  .woocommerce-page ul.products li.product,
+  .woocommerce.woocommerce-style-two ul.products li.product,
+  .woocommerce-page.woocommerce-style-two ul.products li.product {
+    float: none;
+    width: 100%;
+    max-width: 302px;
+    padding-bottom: 35px;
+    margin: 0 auto;
+  }
+  .woocommerce ul.products li.product.columns-4,
+  .woocommerce-page ul.products.columns-4 li.product,
+  .woocommerce ul.products li.product.columns-3,
+  .woocommerce-page ul.products.columns-3 li.product {
+    width: 100%;
+    margin: 0 auto;
+    float: none;
+  }
+  .crmny-collections .crmny-btn-wrap {
+    padding-top: 0;
+  }
+  .offer-wrap h2 {
+    font-size: 46px;
+    line-height: 52px;
+  }
+  .offer-title {
+    padding-bottom: 8px;
+  }
+  /* Crmny Home V6 Page CSS */
+  .crmny-dark-header .crmny-toggle {
+    padding-left: 10px;
+  }
+  .swiper-style-three .caption-wrap-inner {
+    padding-bottom: 0;
+  }
+  .swiper-style-three .caption-wrap-inner h1 {
+    font-size: 48px;
+    line-height: 52px;
+  }
+  .swiper-style-three .crmny-btn-wrap {
+    padding-top: 10px;
+  }
+  .swiper-container-horizontal > .swiper-pagination-bullets,
+  .swiper-pagination-custom {
+    bottom: 15px;
+  }
+  .section-title-wrap .crmny-btn-wrap {
+    padding-top: 15px;
+  }
+  .location-wrap h2 {
+    font-size: 42px;
+    line-height: 48px;
+  }
+  .location-wrap .crmny-icon {
+    padding-bottom: 5px;
+  }
+  .location-title {
+    padding-bottom: 5px;
+  }
+  .location-wrap h3 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .location-venue br {
+    display: none;
+  }
+  .location-wrap .crmny-btn-wrap {
+    padding-top: 10px;
+  }
+  .event-menu-info {
+    padding: 30px;
+  }
+  .event-menu-info h2 {
+    font-size: 24px;
+  }
+  .event-menu-title {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .event-menu-item {
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+  }
+  .order-md-1 .event-menu-item {
+    padding-bottom: 2px;
+    margin-bottom: 10px;
+  }
+  .event-menu-item h4 {
+    font-size: 16px;
+  }
+  .event-menu-info-wrap {
+    padding-bottom: 35px;
+  }
+  .contact-us-wrap-inner {
+    padding: 30px;
+    margin-bottom: 30px;
+  }
+  .contact-item h4 {
+    font-size: 16px;
+  }
+  .crmny-map,
+  .crmny-map.map-spacer-two {
+    height: 300px;
+  }
+  /* Crmny Our Story Page CSS */
+  .crmny-page-title {
+    padding: 50px 0 40px;
+  }
+  .page-title-wrap h1,
+  .page-title-wrap h2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .page-title-wrap p {
+    font-size: 16px;
+  }
+  .page-title {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  .proposal-story-item,
+  .proposal-story-item .textright {
+    text-align: center;
+  }
+  .proposal-story-item:before {
+    display: none;
+  }
+  .proposal-story-item:after {
+    bottom: 22px;
+  }
+  .proposal-story-item {
+    padding-bottom: 60px;
+  }
+  .proposal-story-info h4 {
+    font-size: 16px;
+  }
+  .getting-engaged h2 {
+    font-size: 28px;
+  }
+  .crmny-photography.photography-style-two {
+    padding-bottom: 40px;
+  }
+  /* Crmny Pricings Page CSS */
+  .crmny-proposals.proposals-style-two {
+    padding-top: 50px;
+  }
+  /* Crmny Guestbook Page CSS */
+  .crmny-testimonials.testimonials-style-two {
+    padding-bottom: 30px;
+  }
+  .testimonials-style-two .testimonial-item {
+    padding: 30px 25px 20px;
+  }
+  /* Crmny Gift Registry Page CSS */
+  .gift-wrap {
+    padding-top: 10px;
+  }
+  .gift-wrap .section-title-wrap h2 {
+    font-size: 24px;
+  }
+  .gift-wrap .section-title br {
+    display: none;
+  }
+  /* Crmny Bridesmaids Groomsmen Page CSS */
+  .friends-wrap + .friends-wrap {
+    padding-top: 30px;
+  }
+  .friends-wrap {
+    text-align: center;
+  }
+  /* Crmny Events Page CSS */
+  .event-item {
+    max-width: 370px;
+    margin: 0 auto 35px;
+  }
+  div:last-child > .event-item {
+    margin-bottom: 0;
+  }
+  .event-info {
+    padding: 25px 25px 30px;
+  }
+  .event-info h3 {
+    font-size: 18px;
+  }
+  .event-info p {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .event-info .crmny-btn-wrap {
+    padding-top: 10px;
+  }
+  .event-title {
+    padding: 5px 0;
+  }
+  /* Crmny Events Details Page CSS */
+  .event-date-info {
+    padding: 10px 0 0 20px;
+  }
+  .event-date-info h3 {
+    font-size: 20px;
+  }
+  .event-date-info h4 {
+    font-size: 16px;
+  }
+  .event-date-wrap {
+    width: 70px;
+  }
+  .event-date-wrap h2 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  .event-date-wrap h4 {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .event-date-info-title {
+    padding-bottom: 2px;
+  }
+  .event-details {
+    padding-bottom: 50px;
+  }
+  .event-details-title {
+    padding-bottom: 32px;
+    margin-bottom: 32px;
+  }
+  .event-details-title .textright {
+    padding-top: 25px;
+    text-align: left;
+  }
+  .event-detail-wrap {
+    padding: 25px 25px 15px;
+  }
+  .event-detail-wrap .crmny-btn-wrap {
+    padding-top: 8px;
+  }
+  .event-author {
+    padding-top: 25px;
+  }
+  .event-author h3 {
+    font-size: 20px;
+  }
+  .event-author-title{
+    padding-bottom: 15px;
+  }
+  .event-author .crmny-image {
+    float: none;
+  }
+  .event-author-info {
+    overflow: visible;
+    padding: 20px 0 0;
+  }
+  .event-author-info h4 {
+    font-size: 16px;
+  }
+  .event-author-name {
+    padding-bottom: 6px;
+  }
+  .event-author-info p {
+    padding-bottom: 10px;
+  }
+  .event-info-wrap {
+    padding: 25px 25px 15px;
+  }
+  .event-info-title {
+    padding-bottom: 6px;
+  }
+  .event-info-wrap ul li {
+    padding: 10px 0;
+  }
+  .event-info-wrap ul li p span {
+    min-width: 35%;
+  }
+  .event-detail-wrap p {
+    padding-bottom: 10px;
+  }
+  /* Crmny 404 Page CSS */
+  .crmny-error h1 {
+    font-size: 90px;
+    line-height: 80px;
+  }
+  .crmny-error h2 {
+    font-size: 22px;
+  }
+  .error-icon {
+    width: 65px;
+    height: 75px;
+    margin-bottom: -3px;
+    background-size: 50px;
+  }
+  .error-subtitle {
+    padding-bottom: 8px;
+  }
+  /* Crmny Gallery Page CSS */
+  .masonry-filters {
+    padding-bottom: 20px;
+  }
+  .masonry-filters ul li a {
+    margin: 0;
+  }
+  .crmny-pagination {
+    padding-top: 10px;
+    line-height: 32px;
+  }
+  .crmny-pagination ul li a,
+  .crmny-pagination ul li span {
+    width: 42px;
+    height: 42px;
+  }
+  .gallery-style-four .gallery-item {
+    margin-bottom: 0;
+  }
+  .gallery-style-four .gallery-item h4 {
+    font-size: 18px;
+  }
+  .gallery-style-four .gallery-title {
+    padding-top: 15px;
+  }
+  .pagination-spacer-two {
+    padding-top: 0;
+  }
+  .gallery-style-four .gallery-info .crmny-icon a {
+    width: 40px;
+    height: 40px;
+    line-height: 30px;
+  }
+  /* Crmny Gallery Details 01 Page CSS */
+  .gallery-details-wrap h3 {
+    font-size: 18px;
+  }
+  .gallery-detail-title {
+    padding-bottom: 5px;
+  }
+  .gallery-details-wrap p {
+    padding-bottom: 10px;
+  }
+  .gallery-author {
+    padding-top: 8px;
+  }
+  .gallery-author-info {
+    padding-left: 15px;
+  }
+  .gallery-author-info h4 {
+    font-size: 16px;
+  }
+  .gallery-meta {
+    padding-top: 15px;
+  }
+  .gallery-controls {
+    padding-top: 20px;
+    margin-top: 50px;
+  }
+  .gallery-control-link .crmny-image {
+    display: none;
+  }
+  .control-link-info,
+  .textright .control-link-info,
+  .textright .gallery-control-link.crmny-hover .control-link-info,
+  .gallery-control-link.crmny-hover .control-link-info {
+    padding: 0;
+  }
+  .grid-view-square,
+  .grid-view-square:before,
+  .grid-view-square:after {
+    width: 10px;
+    height: 10px;
+  }
+  .grid-view-square:before,
+  .grid-view-square:after {
+    top: 11px;
+  }
+  .control-link-title {
+    font-size: 15px;
+  }
+  /* Crmny Gallery Details 02 Page CSS */
+  .gallery-slider .owl-carousel .owl-nav button.owl-prev,
+  .gallery-slider .owl-carousel .owl-nav button.owl-next {
+    display: none;
+  }
+  .gallery-details-wrap ul {
+    padding-top: 20px;
+  }
+  .gallery-details-wrap ul li {
+    padding: 10px 0;
+  }
+  /* Crmny Blog Detail Pages CSS */
+  .crmny-iframe iframe {
+    height: 270px;
+  }
+  .blog-detail-wrap .blog-item {
+    max-width: none;
+    margin-bottom: 20px;
+  }
+  .blog-detail-wrap .blog-info {
+    padding-top: 13px;
+  }
+  .blog-detail-wrap .blog-info h3 {
+    font-size: 18px;
+  }
+  .blog-detail-wrap .blog-info ul {
+    padding-bottom: 10px;
+  }
+  .blog-link {
+    padding: 10px 20px;
+    margin-bottom: 35px;
+    background-image: none;
+  }
+  .blog-link .blog-title br {
+    display: none;
+  }
+  .blog-item .owl-carousel .owl-nav button.owl-prev,
+  .blog-item .owl-carousel .owl-nav button.owl-next {
+    display: none;
+  }
+  .pagination-spacer-four {
+    padding-top: 0;
+  }
+  .crmny-widget {
+    padding: 20px 25px 25px;
+  }
+  .crmny-widget:last-child {
+    margin-bottom: 0;
+  }
+  .crmny-widget .widget-title {
+    padding-bottom: 15px;
+  }
+  .categories-widget .widget-title {
+    padding-bottom: 5px;
+  }
+  .crmny-blog-detail .blog-info p {
+    padding-bottom: 10px;
+  }
+  .blockquote-icon-wrap {
+    margin-bottom: 15px;
+  }
+  .crmny-blog-detail .gallery-controls {
+    padding: 20px 0 50px;
+    margin-top: 30px;
+  }
+  .crmny-author-info {
+    padding: 25px 20px 20px;
+    margin-bottom: 50px;
+  }
+  .author-content .author-name {
+    font-size: 16px;
+  }
+  .comments-section {
+    padding-bottom: 10px;
+  }
+  .crmny-comments-area h3 {
+    font-size: 18px;
+  }
+  .crmny-comments-area .comments-title {
+    padding-bottom: 20px;
+  }
+  .crmny-comments-area .crmny-comments-meta h4 {
+    font-size: 16px;
+  }
+  .crmny-comments-area .comment-item {
+    padding-bottom: 30px;
+  }
+  .crmny-comments-area .comments li .children li {
+    padding-left: 30px;
+  }
+  .crmny-comments-area .crmny-comments-meta .comments-date:before {
+    margin-bottom: 3px;
+  }
+  .crmny-blog-detail .comment-reply-title {
+    padding-bottom: 15px;
+  }
+  /* Crmny Shop Page CSS */
+  .woocommerce ul.products {
+    padding-top: 30px;
+  }
+  .woocommerce .woocommerce-result-count,
+  .woocommerce-page .woocommerce-result-count {
+    float: none;
+    text-align: left;
+  }
+  .woocommerce .woocommerce-ordering,
+  .woocommerce-page .woocommerce-ordering {
+    padding-top: 15px;
+    float: none;
+  }
+  /* Crmny Shop Detail Page CSS */
+  .woocommerce .swiper-container {
+    height: 400px;
+  }
+  .gallerythumbs {
+    width: 25%;
+    padding-right: 10px;
+  }
+  .galleryslides {
+    width: 75%;
+  }
+  .woocommerce .zoom-icon {
+    display: none;
+  }
+  .woocommerce #content div.product div.images,
+  .woocommerce div.product div.images,
+  .woocommerce-page #content div.product div.images,
+  .woocommerce-page div.product div.images {
+    height: 100%;
+  }
+  .woocommerce div.product .product_title {
+    font-size: 20px;
+  }
+  .woocommerce div.product p.price {
+    font-size: 18px;
+  }
+  .woocommerce div.product p.price {
+    padding-top: 0;
+    margin-bottom: 10px;
+  }
+  .woocommerce div.product p.stock {
+    padding: 10px 0;
+  }
+  .yith-wcwl-add-to-wishlist {
+    padding-top: 25px;
+  }
+  .woocommerce div.product .product_meta.meta-categories {
+    padding-top: 10px;
+  }
+  .product-share {
+    padding-top: 5px;
+  }
+  .woocommerce-tabs {
+    padding-top: 45px;
+  }
+  .woocommerce div.product .woocommerce-tabs p {
+    padding-bottom: 10px;
+  }
+  .woocommerce div.product .woocommerce-tabs ul.tabs li {
+    margin: 0 20px;
+  }
+  .woocommerce div.product .woocommerce-tabs ul.tabs li a {
+    padding: 8px 0 0;
+    font-size: 15px;
+  }
+  .woocommerce div.product .woocommerce-tabs ul.tabs li.r-tabs-state-active a:before {
+    height: 3px;
+  }
+  .woocommerce div.product .woocommerce-tabs > #tab-description {
+    padding: 15px 0;
+  }
+  .woocommerce div.product .woocommerce-tabs .panel {
+    padding: 25px 0 40px;
+  }
+  .woocommerce #reviews #comments ol.commentlist .comment_container {
+    padding-bottom: 15px;
+  }
+  .woocommerce #reviews #comments ol.commentlist li .comment-text {
+    padding-left: 20px;
+  }
+  .woocommerce #reviews h3 {
+    padding: 5px 0 0;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  .woocommerce #review_form #respond .comment-form-wrap {
+    padding-top: 30px;
+  }
+  .woocommerce .related-products {
+    padding-top: 50px;
+  }
+  /* Crmny Shopping Cart Page CSS */
+  .woocommerce table.shop_table th {
+    padding: 0 20px 10px 0;
+  }
+  .woocommerce table.shop_table td {
+    padding: 20px 40px 20px 0;
+  }
+  .woocommerce table.shop_table td.product-image {
+    padding-right: 10px;
+  }
+  .woocommerce .actions .coupon .input-text {
+    width: 58%;
+  }
+  .woocommerce table.shop_table th,
+  .woocommerce table.shop_table td {
+    font-size: 15px;
+  }
+  .woocommerce table.shop_table td.product-thumbnail {
+    font-size: 14px;
+  }
+  .cart-total {
+    padding: 25px 25px 30px;
+  }
+  .cart-total table.shop_table tfoot .shipping th,
+  .cart-total table.shop_table tfoot .shipping td {
+    padding-bottom: 25px;
+  }
+  .cart-total table.shop_table tfoot .cart-subtotal th,
+  .cart-total table.shop_table tfoot .cart-subtotal td {
+    padding: 15px 40px 0 0;
+  }
+  .cart-total table.shop_table tfoot .order-total th,
+  .cart-total table.shop_table tfoot .order-total td {
+    padding-top: 15px;
+  }
+  .cart-total table.shop_table th {
+    padding-bottom: 10px;
+  }
+  .cart-total .cart-subtotal .amount {
+    font-size: 16px;
+  }
+  .cart-total table.shop_table tfoot .order-total td {
+    font-size: 18px;
+  }
+  .cart-total .checkbox {
+    margin-bottom: 5px;
+  }
+  .woocommerce .cart_totals {
+    padding-top: 20px;
+  }
+  /* Crmny Checkout Page CSS */
+  .woocommerce-error,
+  .woocommerce-info,
+  .woocommerce-message {
+    padding: 15px 20px !important;
+  }
+  .woocommerce form .form-text {
+    margin-bottom: 15px;
+    line-height: 26px;
+  }
+  .woocommerce form .form-row-first,
+  .woocommerce form .form-row-last,
+  .woocommerce-page form .form-row-first,
+  .woocommerce-page form .form-row-last {
+    width: 100%;
+  }
+  .woocommerce form .form-row label.inline {
+    margin-left: 15px;
+  }
+  .woocommerce form.checkout_coupon input.input-text {
+    width: 100%;
+  }
+  .woocommerce form.checkout_coupon p.form-row.form-row-first {
+    width: 100%;
+  }
+  .woocommerce form.checkout_coupon p.form-row.form-row-last {
+    width: 40%;
+    float: left;
+    margin-top: 15px;
+  }
+  .woocommerce-checkout {
+    padding-top: 45px;
+  }
+  .woocommerce-checkout h3 {
+    padding-bottom: 13px;
+    font-size: 18px;
+  }
+  .woocommerce form .form-row.create-account .checkbox {
+    margin: 0;
+  }
+  .woocommerce form .additional-info {
+    padding: 20px 0 10px;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table thead th {
+    padding: 0 0 10px;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table thead th {
+    font-size: 18px;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tbody > tr:first-child > td,
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tfoot > tr:first-child > th,
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tfoot > tr:first-child > td {
+    padding-top: 15px;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tbody > tr:last-child > td {
+    padding-bottom: 20px;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tbody td {
+    padding: 9px 30px 5px 0;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tfoot .shipping th,
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tfoot .shipping td {
+    padding: 5px 0 8px;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tfoot .order-total .amount {
+    font-size: 20px;
+  }
+  .woocommerce #add_payment_method #payment ul.payment_methods,
+  .woocommerce .woocommerce-cart #payment ul.payment_methods,
+  .woocommerce .woocommerce-checkout #payment ul.payment_methods {
+    padding: 10px 0 8px;
+  }
+  .woocommerce div.create-account input[type="password"] {
+    margin-bottom: 0;
+  }
+  .woocommerce #add_payment_method #payment div.form-row,
+  .woocommerce .woocommerce-cart #payment div.form-row,
+  .woocommerce .woocommerce-checkout #payment div.form-row {
+    padding-top: 10px;
+  }
+  .woocommerce .wc_payment_method .wpcf7-list-item-label {
+    font-size: 15px;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table tfoot .order-total th {
+    padding: 10px 20px 10px 0;
+  }
+  /* Snston Content Cross Check Page CSS */
+  .entry-content dd {
+    margin-bottom: 10px;
+  }
+  .wp-caption {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  .entry-content .comment-list article,
+  .entry-content .comment-list .pingback,
+  .entry-content .comment-list .trackback {
+    padding: 20px 0;
+  }
+  .entry-content .comment-content ul,
+  .entry-content .comment-content ol {
+    margin: 0 0 10px 0;
+  }
+  .entry-content .comment-metadata {
+    margin-bottom: 5px;
+  }
+  .entry-content .comment-list .comment-reply-link {
+    margin-top: 0;
+  }
+  .entry-content .comment-list .children {
+    padding-left: 0;
+  }
+  .entry-content .comment-notes,
+  .entry-content .comment-awaiting-moderation,
+  .entry-content .logged-in-as,
+  .entry-content .form-allowed-tags {
+    padding-bottom: 10px;
+  }
+  .crmny-unit-fix .entry-content .comment-form {
+    padding-top: 0;
+  }
+  .crmny-unit-fix .entry-content .comment-list article,
+  .crmny-unit-fix .entry-content .comment-list .pingback,
+  .crmny-unit-fix .entry-content .comment-list .trackback {
+    padding: 15px 0 20px;
+  }
+  /* Crmny Contact Us Page CSS */
+  .contact-wrap .section-title-wrap h2 {
+    font-size: 24px;
+  }
+  .contact-wrap .contact-item {
+    margin-bottom: 20px;
+  }
+  .contact-wrap .contact-info {
+    padding-left: 15px;
+  }
+  .contact-wrap .contact-title {
+    padding-bottom: 0;
+  }
+  .contact-form {
+    padding-top: 18px;
+  }
+  /* Gallery */
+  .gallery-style-three .gallery-item .crmny-image {
+    width: 370px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .crmny-rsvp-btn {
+    width: 100%;
+  }
+  .crmny-rsvp .form-content .checkbox-wrap {
+    width: 100%;
+    padding-top: 15px;
+  }
+  .photoshoot-info {
+    transform: none;
+  }
+  .crmny-prsc-products .woocommerce.woocommerce-page.woocommerce-style-two {
+    padding-top: 0;
+  }
+  /* Event Single */
+  .tribe-tickets-rsvp .tribe-events-tickets-rsvp .tribe-ticket.quantity,
+  .tribe-tickets-rsvp .tribe-events-tickets .tickets_name {
+    width: auto;
+  }
+  .tribe-tickets-rsvp .tribe-events-tickets tr td {
+    padding: 5px;
+    max-width: 100%;
+  }
+  .tribe-tickets-rsvp .tribe-events-tickets .tickets_name {
+    padding-top: 5px;
+  }
+  .tribe_events .tribe-events-tickets-rsvp .tribe-ticket.quantity input[type="number"] {
+    margin: 0;
+  }
+  .tribe-tickets-rsvp .tribe-events-tickets tr td.add-to-cart {
+    width: 100%;
+  }
+  .tribe-tickets-rsvp .tribe-tickets-has-rsvp.tribe-events-tickets td.tribe-tickets-attendees tr {
+    display: inline-block;
+    width: 100%;
+    padding: 5px;
+  }
+  .tribe-events-tickets table.tribe-tickets-table {
+    width: 100%;
+  }
+  .single-tribe_events .tribe-events-schedule .tribe-events-cost {
+    float: left;
+  }
+  .tribe-events-schedule h2 {
+    font-size: 16px;
+    width: 100%;
+  }
+  .woocommerce nav.woocommerce-pagination {
+    padding-top: 5px;
+  }
+  .woocommerce div.product div.images .flex-control-thumbs li {
+    padding: 0 10px 10px 0;
+    width: 100%;
+  }
+}
+@media screen and (max-width:600px) {
+  .admin-bar .is-sticky .crmny-header {
+    top: 0 !important;
+  }
+}
+@media screen and (max-width:599px) {
+  /* Crmny Normal CSS */
+  .popup-separator {
+    width: 35px;
+    height: 35px;
+  }
+  .crmny-main-wrap .crmny-fullscreen-navigation .crmny-navigation > ul > li {
+    margin: 5px 0;
+  }
+  .crmny-main-wrap .crmny-fullscreen-navigation .crmny-navigation > ul > li > a {
+    font-size: 24px;
+  }
+  .crmny-fullscreen-navigation .dropdown-nav {
+    font-size: 13px;
+  }
+  .crmny-fullscreen-navigation .dropdown-nav > li > a {
+    padding: 6px 0;
+  }
+  .caption-wrap-inner h1 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+  .crmny-btn-wrap, .gallery-wrap .crmny-btn-wrap {
+    padding-top: 10px;
+  }
+  .nav-tabs .nav-item {
+    font-size: 16px;
+  }
+  .section-title-wrap,
+  .crmny-big-day .section-title-wrap,
+  .crmny-friends .section-title-wrap,
+  .crmny-rsvp.rsvp-style-two .section-title-wrap,
+  .crmny-contact-us .section-title-wrap {
+    padding-bottom: 15px;
+  }
+  .section-title-wrap h2,
+  .woocommerce .section-title-wrap h2 {
+    font-size: 24px;
+  }
+  .crmny-quotes h2 {
+    font-size: 32px;
+    line-height: 36px;
+  }
+  /* Crmny Home V2 Page CSS */
+  .invitation-wrap h1 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .invitation-wrap h2 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  /* Crmny Home V3 Page CSS */
+  .banner-caption h1 {
+    font-size: 36px;
+    line-height: 42px;
+  }
+  /* Crmny Home V4 Page CSS */
+  .crmny-photoshoot .owl-carousel .owl-nav button.owl-prev,
+  .crmny-photoshoot .owl-carousel .owl-nav button.owl-next {
+    width: 40px;
+    height: 40px;
+    left: 10px;
+  }
+  .crmny-photoshoot .owl-carousel .owl-nav button.owl-next {
+    left: auto;
+    right: 10px;
+  }
+  /* Crmny Home V5 Page CSS */
+  .swiper-style-two .caption-wrap-inner h1 {
+    line-height: 44px;
+  }
+  .offer-wrap h2 {
+    font-size: 34px;
+    line-height: 40px;
+  }
+  /* Crmny Home V6 Page CSS */
+  .swiper-style-three .caption-wrap-inner h1 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+  .location-wrap h2 {
+    font-size: 38px;
+    line-height: 46px;
+  }
+  .contact-us-wrap-inner form input[type="submit"] {
+    margin: 0;
+    width: 100%;
+  }
+  .contact-item {
+    margin-bottom: 20px;
+  }
+  .event-menu-info h2 {
+    font-size: 22px;
+  }
+  /* Crmny Our Story Page CSS */
+  .page-title-wrap h1,
+  .page-title-wrap h2 {
+    font-size: 26px;
+    line-height: 34px;
+  }
+  /* Crmny Guestbook Page CSS */
+  .crmny-guest-form form input[type="submit"] {
+    width: 100%;
+  }
+  /* Crmny Gift Registry Page CSS */
+  .gift-wrap .section-title-wrap h2 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  /* Crmny Blog Detail Pages CSS */
+  .crmny-iframe iframe {
+    height: 200px;
+  }
+  /* Crmny Shop Detail Page CSS */
+  .woocommerce ol li {
+    margin-right: 15px;
+  }
+  .woocommerce div.product .product_title {
+    font-size: 18px;
+  }
+  /* Event Single */
+  .single-tribe_events .tribe-events-event-meta dl {
+    padding: 15px;
+  }
+}
+
+@media screen and (max-width:575px) {
+  /* Crmny Gallery Details 01 Page CSS */
+  .gallery-meta .textright {
+    padding-top: 5px;
+    text-align: left;
+  }
+  .control-link-title {
+    display: none;
+  }
+  /* Crmny Blog Detail Pages CSS */
+  .crmny-blog-meta .textright {
+    padding-top: 10px;
+    text-align: left;
+  }
+  .woocommerce #reviews #comments ol.commentlist li {
+    margin-bottom: 0;
+  }
+  .single-product.woocommerce-page div.product div.images {
+    width: 100%;
+  }
+  .woocommerce-page table.cart td.actions .coupon .input-text+.button {
+    margin: 8px 0 0;
+    width: 100%;
+  }
+  .woocommerce-cart table.cart td.actions .coupon .input-text {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width:479px) {
+  /* Crmny Normal CSS */
+  .crmny-brand img {
+    height: auto;
+  }
+  .page-title-wrap h1,
+  .page-title-wrap h2 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  /* Crmny Home V2 Page CSS */
+  .crmny-dark-transparent-header .search-link {
+    padding-left: 16px;
+  }
+  .crmny-dark-transparent-header .cart-link a,
+  .crmny-dark-transparent-header .search-link a {
+    padding: 0;
+    background: none;
+    -webkit-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+  }
+  .crmny-dark-transparent-header .cart-link a:hover,
+  .crmny-dark-transparent-header .search-link a:hover,
+  .crmny-dark-transparent-header .crmny-toggle-link:hover {
+    background: none;
+  }
+  .crmny-dark-transparent-header .crmny-toggle-link {
+    height: 10px;
+    width: auto;
+    background: none;
+  }
+  .crmny-dark-transparent-header .crmny-toggle {
+    padding-left: 13px;
+  }
+  .crmny-dark-transparent-header .toggle-separator {
+    margin: 5px 0 0;
+  }
+  .crmny-dark-transparent-header .cart-counter {
+    top: -8px;
+    left: 6px;
+  }
+  /* Crmny Home V4 Page CSS */
+  .crmny-full-width-header .crmny-header .crmny-social a {
+    margin-right: 10px;
+  }
+  .about-info h2 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  /* Crmny Bridesmaids Groomsmen Page CSS */
+  .friend-info {
+    padding-top: 10px;
+  }
+  .friend-info h4 {
+    font-size: 16px;
+  }
+  /* Crmny Gallery Details 01 Page CSS */
+  .control-link {
+    display: none;
+  }
+  .gallery-style-four .gallery-item h4 {
+    font-size: 16px;
+  }
+  .gallery-style-four .gallery-title {
+    padding-top: 10px;
+  }
+  /* Crmny Gift Registry Page CSS */
+  .gift-wrap .section-title-wrap h2 {
+    font-size: 18px;
+  }
+  /* Crmny Blog Detail Pages CSS */
+  .crmny-iframe iframe {
+    height: auto;
+  }
+  .blog-detail-wrap .blog-info h3 {
+    font-size: 16px;
+  }
+  .blog-info ul li {
+    padding-right: 10px;
+    margin-right: 5px;
+  }
+  .crmny-author-info {
+    text-align: center;
+  }
+  .author-avatar {
+    float: none;
+  }
+  .author-content {
+    padding: 15px 0 0;
+  }
+  .author-content .author-name {
+    margin-bottom: 2px;
+  }
+  .crmny-comments-area .comment-image {
+    float: none;
+  }
+  .crmny-comments-area .comment-main-area {
+    padding: 15px 0 0;
+  }
+  .crmny-comments-area .crmny-comments-meta {
+    padding-bottom: 4px;
+  }
+  .crmny-comment-form input[type="submit"] {
+    width: 100%;
+  }
+  /* Crmny Shop Detail Page CSS */
+  .woocommerce .swiper-container {
+    height: 300px;
+  }
+  .woocommerce div.product .woocommerce-product-rating {
+    display: block;
+    float: none;
+  }
+  .woocommerce .woocommerce-product-rating .star-rating {
+    margin: 0;
+  }
+  .woocommerce div.product .woocommerce-tabs ul.tabs li {
+    margin: 0 10px;
+  }
+  .woocommerce div.product .woocommerce-tabs ul.tabs li a {
+    font-size: 14px;
+  }
+  .woocommerce #reviews #comments ol.commentlist li img.avatar {
+    float: none;
+  }
+  .woocommerce #reviews #comments ol.commentlist li .comment-text {
+    padding: 15px 0 0;
+  }
+  .woocommerce #review_form #respond .form-submit input {
+    width: 100%;
+  }
+  /* Crmny Shopping Cart Page CSS */
+  .woocommerce .actions .coupon .input-text,
+  .woocommerce #respond input#submit,
+  .woocommerce a.button,
+  .woocommerce input.button {
+    width: 100%;
+  }
+  .woocommerce .actions .coupon input[type="submit"] {
+    margin-top: 10px;
+    width: 100%;
+  }
+  .cart_totals .crmny-btn {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+  }
+  /* Crmny Checkout Page CSS */
+  .woocommerce form .form-row label.inline {
+    margin-left: 0;
+  }
+  .woocommerce form .lost_password {
+    padding: 5px 0 20px;
+  }
+  .woocommerce form.checkout_coupon input.input-text {
+    width: 100%;
+  }
+  .woocommerce form.checkout_coupon input.button {
+    margin: 15px 0 0;
+  }
+  .woocommerce .woocommerce-checkout-review-order table.shop_table thead th {
+    font-size: 16px;
+  }
+  .woocommerce #add_payment_method #payment div.payment_box,
+  .woocommerce .woocommerce-cart #payment div.payment_box,
+  .woocommerce .woocommerce-checkout #payment div.payment_box {
+    margin: 0;
+  }
+  /* Crmny Contact Us Page CSS */
+  .contact-wrap .section-title-wrap h2 {
+    font-size: 22px;
+  }
+  .contact-form form input[type="submit"] {
+    width: 100%;
+  }
+  /* Event Single */
+  .tribe-events-tickets tr.tribe-tickets-meta-row {
+    padding: 12px;
+  }
+}
+
+@media screen and (max-width:444px) {
+  /* Crmny Home V1 Page CSS */
+  .countdown-wrap {
+    max-width: 300px;
+  }
+  .countdown-item,
+  .countdown_section {
+    padding: 6px;
+    background: none;
+    min-width: 20px;
+    margin-right: 20px;
+    width: 100%;
+  }
+  .countdown-item:after, .countdown_section:after {
+    content: none;
+  }
+  .countdown-value,
+  .countdown_amount {
+    font-size: 26px;
+    line-height: 32px;
+  }
+  .checkbox-wrap,
+  .rsvp-wrap .checkbox-wrap {
+    padding-top: 15px;
+  }
+  /* Crmny Home V5 Page CSS */
+  .center-header-style-two .search-box {
+    top: 52px;
+  }
+  /* Gallery */
+  .gallery-style-three .gallery-item .crmny-image {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width:359px) {
+  /* Crmny Normal CSS */
+  .section-title-wrap h2 {
+    font-size: 22px;
+  }
+  /* Crmny Home V2 Page CSS */
+  .invitation-wrap h1 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  /* Crmny Home V3 Page CSS */
+  .banner-caption h1 {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  /* Crmny Home V5 Page CSS */
+  .center-header-style-two .search-box {
+    top: 48px;
+  }
+  .offer-wrap h2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  /* Crmny Events Details Page CSS */
+  .event-date-info h4 {
+    font-size: 14px;
+  }
+  .event-author-timing p span {
+    min-width: 85px;
+  }
+  /* Crmny Blog Detail Pages CSS */
+  .crmny-comments-area .crmny-comments-meta .comments-date {
+    display: block;
+  }
+  .crmny-comments-area .crmny-comments-meta .comments-date:before {
+    display: none;
+  }
+  /* Crmny Shop Detail Page CSS */
+  .woocommerce .swiper-container {
+    height: 250px;
+  }
+}

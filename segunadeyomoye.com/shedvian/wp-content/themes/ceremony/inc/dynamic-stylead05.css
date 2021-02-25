@@ -1,0 +1,21 @@
+
+<!-- Topbar Colors -->
+@media (max-width: 1199px) {
+  .no-class {}
+  .crmny-navigation {
+    display: none !important;
+  }
+  .crmny-header-right {
+    display: none;
+  }
+  .crmny-center-header .crmny-header .textright {
+    display: none;
+  }
+  .crmny-center-header .header-center-wrap {
+    display: none;
+  }
+  .mean-menu-parent .navigation-wrap .close-btn {
+    display: none;
+  }
+}
+body, form label, .about-info .socials-label, .gallery-meta .socials-label, .crmny-blog-share .socials-label, .woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count, .woocommerce ul.cart_list, .woocommerce ul.product_list_widget, .product-share .socials-label, .woocommerce #reviews #comments ol.commentlist li .comment-text p.meta strong, .woocommerce .wc_payment_method .wpcf7-list-item-label, .tribe-events-page-title, .woocommerce div.product p.price ins, .woocommerce div.product span.price ins, .woocommerce div.product p.price .woocommerce-Price-amount.amount, .woocommerce div.product span.price .woocommerce-Price-amount.amount{font-family: "Poppins", Arial, sans-serif;font-style: normal;}.crmny-navigation, .crmny-navigation > ul > li, .mean-container .mean-nav ul li a{font-family: "Poppins", Arial, sans-serif;font-style: normal;}.dropdown-nav > li, .dropdown-nav, .mean-container .mean-nav ul.sub-menu li a{font-family: "Poppins", Arial, sans-serif;font-style: normal;}h1, h2, h3, h4, h5, h6, .text-logo{font-family: "Poppins", Arial, sans-serif;font-style: normal;}p, .crmny-btn, .cart-counter, .countdown-title, .gallery-detail-link, .function-time, .blog-info ul, .socials-label, .copyright-title, .crmny-topbar ul, .author-designation, .proposal-startup, .stats-title, .photoshoot-subtitle, .suit-title, .event-menu-item ul, .event-info ul, .error-subtitle, .control-link, .gallery-details-wrap ul, .crmny-widget ul, .tag-widget a, .widget_tag_cloud a, .crmny-blog-tags a, .crmny-comments-area .crmny-comments-meta .comments-date, .amount-label, .woocommerce div.product .product_meta.meta-categories, .checkbox .wpcf7-list-item-label, .product-stats-title, .woocommerce-error, .woocommerce-info, .woocommerce-message, .woocommerce form .wpcf7-list-item-label, .woocommerce .woocommerce-checkout-review-order table.shop_table tbody td, .woocommerce li.wc_payment_method a, .yith-wcwl-add-to-wishlist a, .crmny-blog-excerpt, .woocommerce ul.products li.product .button{font-family: "Raleway", Arial, sans-serif;font-style: normal;}.caption-title, .place-title, .missing-title, .quote-title, .couple-name, .marriage-date, .banner-caption-title, .offer-title, .location-title, .getting-engaged-title{font-family: "Alex Brush", Arial, sans-serif;font-style: normal;}.your-custom-class{font-family: "Montserrat", Arial, sans-serif;font-style: normal;}

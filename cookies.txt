@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+segunadeyomoye.com	TRUE	/shedvian/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+.paystack.co	TRUE	/	FALSE	1999999999	__cfduid	d1873613e7231b767c53c303a2e39cfac1611441301
+js.paystack.co	TRUE	/	FALSE	1999999999	SameSite	Lax
+.victorthemes.com	TRUE	/	FALSE	1999999999	visid_incap_2163186	32mzTOJ9S8iIU0baZAznttKlDGAAAAAAQUIPAAAAAACoYE/zCZLD7USt8QLxI/VU
+.victorthemes.com	TRUE	/	FALSE	1999999999	incap_ses_7222_2163186	LrrXRzINbzBTrvYW1rI5ZNKlDGAAAAAABI8lfGV+koBZKEr63VoYjQ==
+
